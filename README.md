@@ -27,7 +27,7 @@ print("Square root of the number:",x)
 ```
 
 ## Output:
-![OUTPUT](![OUTPUT](https://github.com/Naveensrinivasan07/Square-root-of-a-number/assets/119475891/05383f24-b63b-4958-bfe7-5b8e4176a1f0)
+![OUTPUT](https://github.com/Naveensrinivasan07/Square-root-of-a-number/assets/119475891/05383f24-b63b-4958-bfe7-5b8e4176a1f0)
 
 
 ## Result:
